@@ -18,9 +18,22 @@ Buyers would be able to interact with the seller discover new products and ask q
 <a href="https://drive.google.com/file/d/1eMBhy7P3qJNeuLnoh2oLmt5Yzvt0St3Z/view?usp=sharing"> PPT link here </a>
 
 ## Screenshots:
-<img src=""
+<img src="https://github.com/kapoor-rajat16/Local_Bazaar/blob/main/screenshots/Screenshot%20(279).png"
  alt="Markdown Monster icon"
  style="float: left; margin-right: 10px;" />
+ <img src="https://github.com/kapoor-rajat16/Local_Bazaar/blob/main/screenshots/Screenshot%20(280).png"
+ alt="Markdown Monster icon"
+ style="float: left; margin-right: 10px;" />
+ <img src="https://github.com/kapoor-rajat16/Local_Bazaar/blob/main/screenshots/Screenshot%20(281).png"
+ alt="Markdown Monster icon"
+ style="float: left; margin-right: 10px;" />
+ <img src="https://github.com/kapoor-rajat16/Local_Bazaar/blob/main/screenshots/Screenshot%20(282).png"
+ alt="Markdown Monster icon"
+ style="float: left; margin-right: 10px;" />
+ <img src="https://github.com/kapoor-rajat16/Local_Bazaar/blob/main/screenshots/Screenshot%20(283).png"
+ alt="Markdown Monster icon"
+ style="float: left; margin-right: 10px;" />
+ 
 
 ## Technology Stack:
 
