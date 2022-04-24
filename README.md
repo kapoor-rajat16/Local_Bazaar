@@ -1,4 +1,4 @@
-<h1 align="center">Hack36 Template Readme</h1>
+<h1 align="center">Local Bazaar</h1>
 <p align="center">
 </p>
 
@@ -11,11 +11,11 @@ Buyers would be able to interact with the seller discover new products and ask q
 
 ## Demo Video Link:
 
-<a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
+<a href="https://www.youtube.com/watch?v=j6t5rliOzss&ab_channel=KartikeyGupta">https://www.youtube.com/watch?v=j6t5rliOzss&ab_channel=KartikeyGupta</a>
 
 ## Presentation Link:
 
-<a href="https://cutt.ly/H365PPT"> PPT link here </a>
+<a href="https://drive.google.com/file/d/1eMBhy7P3qJNeuLnoh2oLmt5Yzvt0St3Z/view?usp=sharing"> PPT link here </a>
 
 ## Table of Contents:
 
