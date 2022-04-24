@@ -17,7 +17,10 @@ Buyers would be able to interact with the seller discover new products and ask q
 
 <a href="https://drive.google.com/file/d/1eMBhy7P3qJNeuLnoh2oLmt5Yzvt0St3Z/view?usp=sharing"> PPT link here </a>
 
-## Table of Contents:
+## Screenshots:
+<img src=""
+ alt="Markdown Monster icon"
+ style="float: left; margin-right: 10px;" />
 
 ## Technology Stack:
 
