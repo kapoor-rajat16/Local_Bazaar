@@ -28,7 +28,7 @@ Buyers would be able to interact with the seller discover new products and ask q
 
 ## Contributors:
 
-Team Name: NP Devs
+Team Name: Hack Elite
 
 - [Kartikey Gupta](https://github.com/kartikey2991)
 - [Silkie Agarwal](https://github.com/silkie261001)
